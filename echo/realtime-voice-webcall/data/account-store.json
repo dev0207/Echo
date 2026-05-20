@@ -1,0 +1,124 @@
+{
+  "email_index": {
+    "demo@voicelayer.local": "eb5fd05cb33ca7e5bcd02b9e",
+    "testuser12345@example.com": "9ddc9debf21fa815ecd046be"
+  },
+  "phone_challenges": {
+    "840f7539380366284eba8295": {
+      "code": "546819",
+      "created_at": "2026-04-18T06:58:03.411556+00:00",
+      "expires_at": "2026-04-18T07:08:03.411556+00:00",
+      "id": "840f7539380366284eba8295",
+      "phone": "+15550123456",
+      "user_id": "eb5fd05cb33ca7e5bcd02b9e",
+      "verified_at": "2026-04-18T06:58:08.765795+00:00"
+    }
+  },
+  "sessions": {
+    "2nr2CahCsSeDBVUOTEtL3axtgVOXdOsbeFaK3kH_Qsw": {
+      "created_at": "2026-04-18T10:32:03.818336+00:00",
+      "expires_at": "2026-05-18T10:32:03.818336+00:00",
+      "id": "20cdb5f4307c54a5fb6d",
+      "last_seen_at": "2026-04-18T11:30:19.387748+00:00",
+      "user_id": "eb5fd05cb33ca7e5bcd02b9e"
+    },
+    "3rY1jMFBBALW8ZlqCyUCR4a-WqgmeNUhCUVAR3cr3PE": {
+      "created_at": "2026-04-18T08:46:56.384620+00:00",
+      "expires_at": "2026-05-18T08:46:56.384620+00:00",
+      "id": "9325d45fc1659e013004",
+      "last_seen_at": "2026-04-18T10:56:16.223955+00:00",
+      "user_id": "eb5fd05cb33ca7e5bcd02b9e"
+    },
+    "AW1XnMyRUW03YgmqhJUAfQKH15JMHrIsvf7tKxw6_K8": {
+      "created_at": "2026-04-18T07:33:43.265930+00:00",
+      "expires_at": "2026-05-18T07:33:43.265930+00:00",
+      "id": "2bcc783dafef739bcb07",
+      "last_seen_at": "2026-04-18T10:06:53.640028+00:00",
+      "user_id": "eb5fd05cb33ca7e5bcd02b9e"
+    },
+    "BdJiGrNBD6QWvjTvegFiJIwb2mVxjbhAhRFcGWvuYRg": {
+      "created_at": "2026-04-18T08:21:19.374669+00:00",
+      "expires_at": "2026-05-18T08:21:19.374669+00:00",
+      "id": "34533e834304d4b56b1f",
+      "last_seen_at": "2026-04-18T08:21:19.374669+00:00",
+      "user_id": "9ddc9debf21fa815ecd046be"
+    },
+    "FjaY5o_G3MeECQloQA8PamKtMbyYzTj_mvjaM12g34A": {
+      "created_at": "2026-04-18T08:22:57.461867+00:00",
+      "expires_at": "2026-05-18T08:22:57.461867+00:00",
+      "id": "3d237c7769c487dbc8bf",
+      "last_seen_at": "2026-04-18T08:22:57.479733+00:00",
+      "user_id": "eb5fd05cb33ca7e5bcd02b9e"
+    },
+    "J9WjDyVdfExYvXsEULHFBrKwxj0Q9vme5Wo9j1MJfwI": {
+      "created_at": "2026-04-18T07:31:26.350828+00:00",
+      "expires_at": "2026-05-18T07:31:26.350828+00:00",
+      "id": "64031301e4ac84f47a4e",
+      "last_seen_at": "2026-04-18T07:31:26.350828+00:00",
+      "user_id": "eb5fd05cb33ca7e5bcd02b9e"
+    },
+    "junKbNbgfp9BcPN1dVaqt02BM_3vdlS28Zq6QXoZU7w": {
+      "created_at": "2026-04-18T06:57:42.253108+00:00",
+      "expires_at": "2026-05-18T06:57:42.253108+00:00",
+      "id": "d468d00e37b8be9b27a5",
+      "last_seen_at": "2026-04-18T06:57:54.075586+00:00",
+      "user_id": "eb5fd05cb33ca7e5bcd02b9e"
+    },
+    "x1VW3-u4fLw8WG-TrpmxsyKkGCTTuowBJVHKlakUl_E": {
+      "created_at": "2026-04-18T06:57:33.424106+00:00",
+      "expires_at": "2026-05-18T06:57:33.424106+00:00",
+      "id": "1eaa3689d4ea90ce0816",
+      "last_seen_at": "2026-04-18T06:57:33.424106+00:00",
+      "user_id": "eb5fd05cb33ca7e5bcd02b9e"
+    },
+    "yp9Ke9eBwEUnGfyi35A0E66oIxZd4c7egKNiZjzk0iw": {
+      "created_at": "2026-04-18T08:25:56.382107+00:00",
+      "expires_at": "2026-05-18T08:25:56.382107+00:00",
+      "id": "8efbd8d2bb7505ac0f46",
+      "last_seen_at": "2026-04-18T10:29:39.986006+00:00",
+      "user_id": "9ddc9debf21fa815ecd046be"
+    }
+  },
+  "users": {
+    "9ddc9debf21fa815ecd046be": {
+      "aws_connections": [],
+      "created_at": "2026-04-18T08:21:19.199804+00:00",
+      "email": "testuser12345@example.com",
+      "github": {
+        "avatar_url": "",
+        "connected": false,
+        "connected_at": "",
+        "name": "",
+        "profile_url": "",
+        "username": ""
+      },
+      "id": "9ddc9debf21fa815ecd046be",
+      "last_login_at": "2026-04-18T08:25:56.382056+00:00",
+      "name": "Test User",
+      "password_hash": "pbkdf2_sha256$240000$50acecacb634f1cd21bce2900bb70738$459c3dd401f3a9ae4c911c304402e2a3676260360b7410a4a5b4bcd545ff9fed",
+      "phone": "",
+      "phone_verified": false,
+      "updated_at": "2026-04-18T08:25:56.382082+00:00"
+    },
+    "eb5fd05cb33ca7e5bcd02b9e": {
+      "aws_connections": [],
+      "created_at": "2026-04-18T06:56:33.759724+00:00",
+      "email": "demo@voicelayer.local",
+      "github": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/228691547?v=4",
+        "connected": true,
+        "connected_at": "2026-04-18T07:31:35.999514+00:00",
+        "name": "shreeyash",
+        "profile_url": "https://github.com/shreeyash-10",
+        "username": "shreeyash-10"
+      },
+      "id": "eb5fd05cb33ca7e5bcd02b9e",
+      "last_login_at": "2026-04-18T10:32:03.818259+00:00",
+      "name": "Demo Operator",
+      "password_hash": "pbkdf2_sha256$240000$3cd78cd46b26a242db4609b1513fc7cc$1df9bef5a71dda4e54420a90b52ff9cf63e8702dea7bb7d54428f6647d61f7e4",
+      "phone": "+15550123456",
+      "phone_verified": true,
+      "updated_at": "2026-04-18T10:32:03.818299+00:00"
+    }
+  }
+}
